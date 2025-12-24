@@ -1,6 +1,13 @@
 # Health Tracker
 
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=white)](https://expo.dev/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
 Мобильное приложение для учета здоровья с полностью локальной работой и симуляцией данных датчиков.
+
+**Технологии:** React Native · TypeScript · Expo · SQLite · React Navigation
 
 ## 🚀 Возможности
 
